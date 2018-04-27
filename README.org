@@ -1,0 +1,4 @@
+* About
+  This repository contains http basic auth demos written in mainstream programming languages.
+
+  All code in a single file, quite simple to use.
